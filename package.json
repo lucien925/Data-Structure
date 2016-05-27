@@ -1,0 +1,30 @@
+{
+  "name": "data-structure",
+  "version": "1.0.0",
+  "description": "data structure",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/summerGreenTea/Data-Structure.git"
+  },
+  "keywords": [
+    "data",
+    "structure"
+  ],
+  "author": "yuhuan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/summerGreenTea/Data-Structure/issues"
+  },
+  "homepage": "https://github.com/summerGreenTea/Data-Structure#readme",
+  "devDependencies": {
+    "mocha": "^2.5.3",
+    "should": "^8.4.0"
+  }
+}
